@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Vision Language Models
+**Domain:** Audio & Speech
 **Upstream:** https://github.com/openai/whisper
 **Fork:** https://github.com/sureshsolanki-labs/whisper
 **Priority:** High
@@ -8,7 +8,7 @@
 
 ## Use case fit
 
-**Note: whisper is ASR (automatic speech recognition), NOT a vision-language model.** Filed under VLM per user's requested taxonomy tag. Direct fit for voice-based field capture in Akshaya Dhara rural flows (low-literacy support) and audio transcription of verifier calls.
+ASR (automatic speech recognition). Direct fit for voice-based field capture in Akshaya Dhara rural flows (low-literacy support) and audio transcription of verifier calls.
 
 ## Planned adaptation notes
 
