@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Audio & Speech
+**Domain:** Multimodal & Perception
 **Upstream:** https://github.com/openai/whisper
 **Fork:** https://github.com/sureshsolanki-labs/whisper
 **Priority:** High
